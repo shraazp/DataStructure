@@ -23,6 +23,7 @@ public class PrimeNumbers {
                 }
                 if(count == 2)
                     System.out.print(i+" ");
+                
             }
         }else {
             System.out.println("Range should be within 0-1000");
